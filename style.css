@@ -13,7 +13,7 @@ body{
 .container {
 	display: flex;
 	flex-wrap: wrap;
-	margin-top: 80px;
+	margin-top: 40px;
 	justify-content: center;
 }
 
@@ -40,5 +40,10 @@ h3{
 img {
 	display: block;
 	height: 600px;
+}
+
+#carousel01 {
+	border: 1px solid white;
+	width: 400px;
 }
 
